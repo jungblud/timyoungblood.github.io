@@ -3,4 +3,4 @@
 
 My personal account GitHub Pages we site for the June Foundations class.
 
-Some more changes.
+Some more changes. Changed the index.html to really rock.
