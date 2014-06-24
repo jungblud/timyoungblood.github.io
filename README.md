@@ -2,3 +2,5 @@
 =======================
 
 My personal account GitHub Pages we site for the June Foundations class.
+
+Some more changes.
